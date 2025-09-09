@@ -7,4 +7,4 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data files (optional — only if you don’t want to track .pkl)
-*.pkl
+#*.pkl
