@@ -1,0 +1,10 @@
+# Environment folders
+env/
+venv/
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional — only if you don’t want to track .pkl)
+*.pkl
