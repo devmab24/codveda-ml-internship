@@ -9,12 +9,12 @@ model building, and evaluation.
 ## 📂 Repository Structure  
 ```
 codveda-ml-internship/
-│── 01_titanic_data_preprocessing.ipynb   # Data cleaning, encoding, scaling
-│── 02_logistic_regression.ipynb          # Binary classification with logistic regression
-│── 03_neural_network.ipynb               # Deep learning with TensorFlow/Keras
-│── datasets/                             # Raw and cleaned datasets
-│── reports/                              # Markdown/PDF reports
-│── README.md                             # Project overview
+│── 01_titanic_data_preprocessing   # Data cleaning, encoding, scaling
+│── 02_logistic_regression          # Binary classification with logistic regression
+│── 03_neural_network               # Deep learning with TensorFlow/Keras
+│── datasets/                       # Raw and cleaned datasets
+│── reports/                        # Markdown/PDF reports
+│── README.md                       # Project overview
 ```
 
 ---
