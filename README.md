@@ -67,6 +67,26 @@ codveda-ml-internship/
 
 ---
 
+📂 Notebooks:  
+- [01_titanic_data_preprocessing](01_data_preprocessing.ipynb)  
+- [02_logistic_regression](02_logistic_regression.ipynb)  
+- [03_neural_network](03_neural_network.ipynb)  
+
+
+## 📊 Results Summary
+
+### Week 2: Logistic Regression
+- Accuracy: 98.2%  
+- Precision: 98.6%  
+- Recall: 98.6%  
+- F1 Score: 98.6%  
+- ROC AUC: 99.5%  
+
+The Logistic Regression model achieved near-perfect performance, significantly 
+outperforming the baseline (~63%). Odds ratios highlighted key features such as 
+compactness and fractal dimension metrics as highly influential.
+
+
 ## 🌟 About Codveda  
 [Codveda Technologies](https://www.codveda.com/) is an innovative IT solutions provider 
 specializing in Web Development, AI/ML automation, SEO optimization, and Data Analysis.  
