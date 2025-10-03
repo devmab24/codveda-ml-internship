@@ -87,6 +87,58 @@ outperforming the baseline (~63%). Odds ratios highlighted key features such as
 compactness and fractal dimension metrics as highly influential.
 
 
+### **Task 3 (Neural Network: MNIST Dataset)**
+
+* Built a feedforward neural network using TensorFlow/Keras.
+* Architecture: `Flatten → Dense(128, ReLU) → Dense(64, ReLU) → Dense(10, Softmax)`.
+* Trained with categorical cross-entropy, Adam optimizer.
+* Visualized learning curves (accuracy & loss).
+* Evaluated with test data, confusion matrix, and classification report.
+
+**Results:**
+
+* **Test Accuracy:** 97.7%
+* **Precision, Recall, F1 (per digit):** 0.97–0.99
+* **Macro/Weighted Average F1:** 0.98
+* Confusion matrix: strong diagonal dominance, very few misclassifications.
+
+---
+
+## 📊 Datasets Used
+
+* **Titanic (Seaborn)** → preprocessing & feature engineering practice.
+* **Breast Cancer (scikit-learn)** → logistic regression, feature interpretability.
+* **MNIST (Keras)** → deep learning, image classification.
+
+---
+
+## 🔧 Tools & Libraries
+
+* **Python** (Conda + Jupyter/Colab)
+* **Pandas, NumPy** (data manipulation)
+* **Scikit-learn** (classical ML, metrics, preprocessing)
+* **TensorFlow/Keras** (neural networks, deep learning)
+* **Matplotlib, Seaborn** (visualization)
+
+---
+
+## 🌟 Key Learnings
+
+* Designed a **systematic preprocessing pipeline**.
+* Understood **logistic regression coefficients** and odds ratios.
+* Applied **neural networks for image recognition**.
+* Gained experience in **evaluation metrics** (confusion matrix, ROC, classification report).
+* Practiced **professional reporting & visualization** of ML results.
+
+---
+
+## 📌 Next Steps
+
+* Experiment with **CNNs** for MNIST to push accuracy beyond 99%.
+* Extend preprocessing pipeline to larger real-world datasets.
+* Explore additional models (Random Forests, SVMs, Gradient Boosting).
+
+
 ## 🌟 About Codveda  
 [Codveda Technologies](https://www.codveda.com/) is an innovative IT solutions provider 
 specializing in Web Development, AI/ML automation, SEO optimization, and Data Analysis.  
